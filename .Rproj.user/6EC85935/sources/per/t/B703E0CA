@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524733853717.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3374511293",
+    "id" : "B703E0CA",
+    "lastKnownWriteTime" : 1525786195,
+    "last_content_update" : 1525786195289,
+    "path" : "C:/Users/olran/Knightec/R/applied_predictive_modeling/chapter_3_exercises.R",
+    "project_path" : "chapter_3_exercises.R",
+    "properties" : {
+        "cursorPosition" : "165,0",
+        "scrollLine" : "136",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
